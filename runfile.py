@@ -18,8 +18,8 @@ from core import (
 
 REPO = """
 👨‍💻**Dhiman Music Player**👨‍💻
-- Repo: [GitHub](https://github.com/LEGEND-AI/LEGEND-MUSIC)
-- ⚜ [Owner](https://t.me/LegendBoy_OP) ⚜
+- Repo: [GitHub](https://github.com/ds98762)
+- ⚜ [Owner](https://t.me/i_dxlvir) ⚜
 """
 
 if config.BOT_TOKEN:
