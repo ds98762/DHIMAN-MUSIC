@@ -17,7 +17,7 @@ from core import (
 
 
 REPO = """
-👨‍💻**Legend Music Player**👨‍💻
+👨‍💻**Dhiman Music Player**👨‍💻
 - Repo: [GitHub](https://github.com/LEGEND-AI/LEGEND-MUSIC)
 - ⚜ [Owner](https://t.me/LegendBoy_OP) ⚜
 """
